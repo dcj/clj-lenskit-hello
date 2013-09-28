@@ -17,7 +17,7 @@ N.B. the usage licenses for these data downloads.
 
 ## Example output
 
-Assuming one has downloaded the MovieLens 100K data set, and it available in the root of the project directory as u.data, then:
+Assuming one has downloaded the MovieLens 100K data set, and it is available in the root of the project directory as u.data, then:
 
 	lein run u.data 99
 	log4j:WARN No appenders could be found for logger (org.grouplens.lenskit.data.dao.SimpleFileRatingDAO).
