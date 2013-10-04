@@ -1,10 +1,10 @@
 # clj-lenskit-hello
 
-A Clojure translation of the lenskit-hello project, written by [Marshall Bockrath-Vandegrift](https://github.com/llasram)
+A Clojure translation of the [lenskit-hello](https://github.com/grouplens/lenskit-hello) project.
 
-As published orginally in his [gist](https://gist.github.com/llasram/6472144)
+This port was authored by [Marshall Bockrath-Vandegrift](https://github.com/llasram), as published orginally in this [gist](https://gist.github.com/llasram/6472144)
 
-All credit/thanks for this should be directed to Marshall, all I did was put Marshall's gist into the proper [Leiningen](https://github.com/technomancy/leiningen) project structure, which Marshall had doubtlessly done himself, and added a tiny bit of usage documentation (this README), also I've bumped the [LensKit](http://lenskit.grouplens.org) version number to use the latest release. 
+All credit/thanks for this should be directed to [Marshall]((https://github.com/llasram), all I did was put Marshall's gist into the proper [Leiningen](https://github.com/technomancy/leiningen) project structure, which Marshall had doubtlessly done himself, and added a tiny bit of usage documentation (this README), also I've bumped the [LensKit](http://lenskit.grouplens.org) version number to use the latest release. 
 
 ## Running the project
 
